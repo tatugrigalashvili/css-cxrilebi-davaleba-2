@@ -5,6 +5,9 @@
 div{
     display: inline-block;
 }
+input{
+    border: none;
+}
 .box1{
     margin-left: 114px;
     width: 201px;
