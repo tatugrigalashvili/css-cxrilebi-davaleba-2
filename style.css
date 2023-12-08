@@ -7,6 +7,7 @@ div{
 }
 input{
     border: none;
+    padding-left: 15px;
 }
 .box1{
     margin-left: 114px;
@@ -48,6 +49,10 @@ input{
 }
 p{
     margin-left: 123px;
+    
+}
+th{
+    padding-left: 15px;
 }
 /*ძიების ველის დასასრული*/
 
